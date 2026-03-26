@@ -1,0 +1,4 @@
+criar remoto: git remote add origin url
+adicionar arquvios: git add * ou o nome do arquivo específico
+definir main: git branch -M main
+commit: git commit -m "Mensagem"
