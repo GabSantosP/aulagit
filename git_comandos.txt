@@ -3,3 +3,4 @@ adicionar arquvios: git add * . ou o nome do arquivo específico
 definir main: git branch -M main
 commit: git commit -m "Mensagem"
 push: git push -u origin main
+config de usuário: git config user.name Nome
